@@ -187,7 +187,7 @@ The source that contains different files needed for the whole project to work.
 - `src/plots.py`: File where all the plotting functions are.
 - `src/transform.py`: File that transforms the queries into tables.
 
-### tests
+### tests
 
 Folder with the necessary files to test the project.
 

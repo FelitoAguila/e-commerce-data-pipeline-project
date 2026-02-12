@@ -176,7 +176,7 @@ It contains all the SQL queries to later create tables and plots.
 - `queries/top_10_least_revenue_categories.sql`: This query will return a table with the top 10 least revenue categories in English, the number of orders, and their total revenue. The first column will be Category, which will contain the top 10 least revenue categories; the second one will be Num_order, with the total amount of orders of each category; and the last one will be Revenue, with the total revenue of each category.
 - `queries/top_10_revenue_catgories.sql`: This query will return a table with the top 10 revenue categories in English, the number of orders, and their total revenue. The first column will be Category, which will contain the top 10 revenue categories; the second one will be Num_order, with the total amount of orders of each category; and the last one will be Revenue, with the total revenue of each category.
 
-### src
+### src
 
 The source that contains different files needed for the whole project to work.
 
